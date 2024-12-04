@@ -21,7 +21,7 @@ namespace CustomApplicationWindow
             InitializeComponent();
         }
 
-        // CanExecute: Determines if the command is enabled (always true here)
+        // Function for the New command
         private void NewCommand_CanExecute(object sender, CanExecuteRoutedEventArgs e)
         {
             e.CanExecute = true;  // Command is always available
@@ -32,6 +32,7 @@ namespace CustomApplicationWindow
         {
             txtEditor.ClearTextBox();  // Clears the text in txtEditor
         }
+        // New command ends here
 
         private void Window_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {

@@ -53,21 +53,7 @@
             </Button>
         </StackPanel>
         <StackPanel Orientation="Horizontal">
-            <Menu>
-                <MenuItem Header="_File">
-                    <MenuItem Header="_New" Command="New"/>
-                    <MenuItem Header="_Open" />
-                    <MenuItem Header="_Save" />
-                    <Separator />
-                    <MenuItem Header="_Exit" />
-                </MenuItem>
-                <MenuItem Header="_Edit">
-                    <MenuItem Command="Cut" />
-                    <MenuItem Command="Copy" />
-                    <MenuItem Command="Paste" />
-                </MenuItem>
-            </Menu>
-            <TextBox AcceptsReturn="True" />
+            <userControls:MenuBar/>
         </StackPanel>
         <DockPanel Grid.Row="1">
             <userControls:TextEditor x:Name="txtEditor"/>
