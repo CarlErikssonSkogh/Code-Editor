@@ -45,10 +45,13 @@ C:\Users\carl.erikssonskogh\Documents\GitHub\Code-Editor\bin\Debug\net8.0-window
 C:\Users\carl.erikssonskogh\Documents\GitHub\Code-Editor\bin\Debug\net8.0-windows\CustomApplicationWindow.dll
 C:\Users\carl.erikssonskogh\Documents\GitHub\Code-Editor\bin\Debug\net8.0-windows\CustomApplicationWindow.pdb
 C:\Users\carl.erikssonskogh\Documents\GitHub\Code-Editor\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\carl.erikssonskogh\Documents\GitHub\Code-Editor\obj\Debug\net8.0-windows\Usercontrols\TextEditor.g.cs
 C:\Users\carl.erikssonskogh\Documents\GitHub\Code-Editor\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\carl.erikssonskogh\Documents\GitHub\Code-Editor\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\carl.erikssonskogh\Documents\GitHub\Code-Editor\obj\Debug\net8.0-windows\CustomApplicationWindow_MarkupCompile.cache
 C:\Users\carl.erikssonskogh\Documents\GitHub\Code-Editor\obj\Debug\net8.0-windows\CustomApplicationWindow_MarkupCompile.lref
 C:\Users\carl.erikssonskogh\Documents\GitHub\Code-Editor\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\carl.erikssonskogh\Documents\GitHub\Code-Editor\obj\Debug\net8.0-windows\Usercontrols\TextEditor.baml
 C:\Users\carl.erikssonskogh\Documents\GitHub\Code-Editor\obj\Debug\net8.0-windows\CustomApplicationWindow.g.resources
 C:\Users\carl.erikssonskogh\Documents\GitHub\Code-Editor\obj\Debug\net8.0-windows\CustomApplicationWindow.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\carl.erikssonskogh\Documents\GitHub\Code-Editor\obj\Debug\net8.0-windows\CustomApplicationWindow.AssemblyInfoInputs.cache

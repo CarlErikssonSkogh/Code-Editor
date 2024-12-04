@@ -21,6 +21,18 @@ namespace CustomApplicationWindow
             InitializeComponent();
         }
 
+        // CanExecute: Determines if the command is enabled (always true here)
+        private void NewCommand_CanExecute(object sender, CanExecuteRoutedEventArgs e)
+        {
+            e.CanExecute = true;  // Command is always available
+        }
+
+        // Executed: Clears the TextBox content when the command is invoked
+        private void NewCommand_Executed(object sender, ExecutedRoutedEventArgs e)
+        {
+            txtEditor.ClearTextBox();  // Clears the text in txtEditor
+        }
+
         private void Window_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
             DragMove();
